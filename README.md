@@ -2,8 +2,8 @@
 
 ## Grocery List
 
-*Pizza
-*Gummies
-*Coke
-*Chips
-*Biscuits
+* Pizza
+* Gummies
+* Coke
+* Chips
+* Biscuits
