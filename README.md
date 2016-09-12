@@ -1,20 +1,6 @@
-# beginner-python
+For Variables:
 
-## Grocery List
-
-* Pizza
-* Gummies
-* Coke
-* Chips
-* Biscuits
-
-This is `a variable name`.
-
-```
-$ python run.py
-```
-
-```
-def my_function(a):
-	return a + 10 
-```
+* Assign your varaible in your def
+* For example def function.py (a):  a is your variable.
+* They are used so that you can put many different inputs into code so that you can test different outputs.
+* The different types of variables are arrays, boolean, and integer.
