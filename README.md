@@ -21,3 +21,6 @@
 * Conditionals are a bunch of `true/false` statements that work its way down a tree to get to a soluion.
 
 ###For Functions
+
+* A funcion is a type of routine that can be tested and ran to get a result.
+* A function returns a value. 
